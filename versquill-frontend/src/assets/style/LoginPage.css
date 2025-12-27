@@ -53,9 +53,10 @@ body {
   .form-field input {
     width: 100%;
     padding: 12px;
-    border: 1px solid #ddd;
+    border: 1px solid #ddddddcf;
     border-radius: 5px;
     font-size: 1em;
+    background-color: transparent;
     color: #333;
   }
   
